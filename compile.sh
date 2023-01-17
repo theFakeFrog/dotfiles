@@ -1,5 +1,6 @@
 #! /bin/bash
 sudo apt install fish -y
+apt install fish -y
 echo [+] starting...
 tar -xvf fish.tar
 echo [+] untared...
